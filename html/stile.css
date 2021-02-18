@@ -215,3 +215,31 @@
 #left{
 	float: right;
 }
+.footer{
+	height: 200px;
+	background: #000;
+	position: relative;
+	color: #fff;
+	padding: 100px 70px;
+
+}
+.qw1{
+	color: #ccc;
+	position: absolute;
+	bottom: 100px;
+}
+.qw{
+	position: absolute;
+}
+.navi1{
+	word-spacing: 20px;
+	position: absolute;
+	right: 70px;
+}
+.qw12{
+	position: absolute;
+	right: 70px;
+	bottom: 100px;
+	color: #ccc;
+	word-spacing: 20px;
+}
